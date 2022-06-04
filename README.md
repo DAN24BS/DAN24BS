@@ -1,0 +1,4 @@
+- Olá, meu nome é @DAN24BS
+- 👀 Meu email de contato daniel.batista.silva@escola.pr.gov.br
+- 🌱 Eu estou interessado em aprender a programar novas linguangens
+- 📫 Eu estou aprendendo a programar rrecentemente em linguagens de JavaScript e Scratch
